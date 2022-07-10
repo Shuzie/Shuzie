@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuzie
-- 👀 I’m interested in Instructional Design and Learning Experience design
+- 👀 I’m interested in Instructional Design and Learning Experience Design
 - 🌱 I’m currently learning how to creat responsive websites and JavaScript 
 - 💞️ I’m looking to collaborate on using twine for Social and Emotional Learning in K-12 environments
 - 📫 How to reach me ...
